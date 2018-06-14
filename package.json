@@ -41,7 +41,7 @@
   },
   "scripts": {
     "test": "grunt clean; node test/runner.js",
-    "postinstall": "node --harmony postinstall.js"
+    "postinstall": "node postinstall.js"
   },
   "keywords": [
     "gruntplugin",
